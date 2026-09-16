@@ -5,7 +5,7 @@ I am a highly motivated, disciplined, and self-taught tech enthusiast seeking an
 - 📍 Based in Thanjavur / Chennai, Tamil Nadu, India
 - ✉️ Reach me at: gssudharshanofficial@gmail.com
 - ⚡ Fun fact: I am an independent learner who transitioned from a healthcare background into software engineering and data operations out of pure passion!
-- 
+  
 ---
 
 ### 🛠️ Tech Stack & Core Skills
