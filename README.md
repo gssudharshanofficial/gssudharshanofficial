@@ -37,4 +37,4 @@ Rather than focusing on theoretical courses, I build functional sandboxes to sol
 ---
 
 ### 📬 Let's Connect
-* ✉️ **Corporate Email:** gssudharshanofficial@gmail.com
+* ✉️ **Email:** gssudharshanofficial@gmail.com
